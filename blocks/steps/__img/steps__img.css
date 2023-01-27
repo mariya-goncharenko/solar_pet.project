@@ -1,5 +1,6 @@
 .steps__img {
     margin: 0;
+    margin-top: 126px;
     padding: 0;
     width: 600px;
     height: 730px;
@@ -7,6 +8,7 @@
 
 @media screen and (max-width: 1280px) {
     .steps__img {
+        margin-top: 0;
         width: 500px;
         height: 630px;
         align-self: center;
@@ -15,7 +17,7 @@
 
 @media screen and (max-width: 1024px) {
     .steps__img {
-        margin-top: 100px;
+        margin-top: 126px;
         width: 450px;
         height: 580px;
         align-self: flex-start;
