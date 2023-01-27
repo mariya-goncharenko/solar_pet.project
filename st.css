@@ -95,11 +95,11 @@
     font-size: 64px;
     line-height: 87px;
     font-variant: small-caps;
+    text-align: center;
 }
 
 @media screen and (max-width: 700px) {
     .header__title {
-        text-align: center;
         font-size: 40px;
         line-height: 48px;
         width: 350px;
