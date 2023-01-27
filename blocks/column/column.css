@@ -1,0 +1,34 @@
+.column {
+    width: 510px;
+}
+
+@media screen and (max-width: 1024px) {
+    .column {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .column {
+        margin: 0 auto;
+        width: 600px; 
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .column {
+        width:450px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .column {
+        width: 375px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .column {
+        width: 300px;
+    }
+}

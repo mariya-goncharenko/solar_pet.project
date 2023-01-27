@@ -1,0 +1,9 @@
+.column__num {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 8px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #868585;
+}

@@ -1,0 +1,9 @@
+.footer {
+    margin: 0;
+    padding: 0;
+    background-image: url(../../img/footer.png);
+    background-repeat: no-repeat;
+       background-size: 1920px;
+    color: white;
+    background-color: black;
+}

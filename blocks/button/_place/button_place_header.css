@@ -1,0 +1,21 @@
+.button_place_header {
+    margin: 53px 0 250px;
+}
+
+@media screen and (max-width: 1024px) {
+    .button_place_header {
+        margin: 53px 0 200px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .button_place_header {
+        margin: 53px 0 150px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .button_place_header {
+        margin: 53px 0 100px;
+    }
+}

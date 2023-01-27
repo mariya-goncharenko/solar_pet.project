@@ -1,0 +1,10 @@
+.footer__input {
+    margin: 0;
+    margin-bottom: 60px;
+    padding: 0;
+    padding-bottom: 10px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}

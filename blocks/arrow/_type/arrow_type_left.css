@@ -1,0 +1,8 @@
+.arrow_type_left {
+    background-image: url(./img/Arrow\ 2.svg);
+}
+
+.arrow_type_left:hover {
+    cursor: pointer;
+    background-image: url(./img/Arrow\ 4.svg);
+}

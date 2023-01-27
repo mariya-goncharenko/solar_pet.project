@@ -1,0 +1,36 @@
+.customers__left {
+    margin: 0;
+    padding: 0;
+    width: 510px;
+}
+
+@media screen and (max-width: 1024px) {
+    .customers__left {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .customers__left {
+        margin: 0 auto;
+        width: 600px; 
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .customers__left {
+        width:450px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .customers__left {
+        width: 375px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .customers__left {
+        width: 300px;
+    }
+}

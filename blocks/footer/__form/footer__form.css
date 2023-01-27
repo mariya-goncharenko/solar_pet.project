@@ -1,0 +1,7 @@
+.footer__form {
+    margin: 0;
+    padding: 0;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+}

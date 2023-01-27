@@ -1,0 +1,15 @@
+.arrows_place_green {
+    margin-top: 74px;
+}
+
+@media screen and (max-width: 900px) {
+    .arrows_place_green {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .arrows_place_green {
+        margin-top: 32px;
+    }
+}

@@ -1,0 +1,36 @@
+.green__block {
+    margin: 0;
+    padding: 0;
+    width: 510px;
+}
+
+@media screen and (max-width: 1024px) {
+    .green__block {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .green__block {
+        margin: 0 auto;
+        width: 600px; 
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .green__block {
+        width:450px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .green__block {
+        width: 375px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .green__block {
+        width: 300px;
+    }
+}

@@ -1,0 +1,39 @@
+.green__tabs {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px) {
+    .green__tabs {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .green__tabs {
+        margin: 0 auto;
+        width: 600px; 
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .green__tabs {
+        width:450px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .green__tabs {
+        width: 375px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .green__tabs {
+        width: 300px;
+    }
+}

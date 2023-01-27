@@ -1,0 +1,21 @@
+.button__cons {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100px;
+    border: 0;
+    border-radius: 100%;
+    background-image: url(../../../img/button_w.svg);
+    background-color: transparent;
+    transition: all 0.2s ease-out;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.button__cons:hover {
+    background-color: #A9A32A;
+    cursor: pointer;
+  }

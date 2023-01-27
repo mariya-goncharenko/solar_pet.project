@@ -1,0 +1,10 @@
+.arrows_place_customers {
+    margin-top: 22px;
+    margin-left: 276px;
+}
+
+@media screen and (max-width: 900px) {
+    .arrows_place_customers {
+        margin: 20px auto;
+    }
+}

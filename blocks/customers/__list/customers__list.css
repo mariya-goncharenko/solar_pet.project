@@ -1,0 +1,9 @@
+.customers__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}

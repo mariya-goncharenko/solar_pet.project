@@ -1,0 +1,25 @@
+.column__list {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 50px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.column__list:last-child {
+    padding: 0;
+}
+
+@media screen and (max-width: 900px) {
+    .column__list {
+        margin: 0;
+        padding: 0;
+        padding-bottom: 30px;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    .column__list:last-child {
+        padding-bottom: 30px;
+    }
+}

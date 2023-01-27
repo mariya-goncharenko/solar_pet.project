@@ -1,0 +1,10 @@
+.links {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 40px;
+    width: 166px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

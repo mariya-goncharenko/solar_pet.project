@@ -1,0 +1,13 @@
+.link {
+    margin: 0;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+    transition: all 0.2s ease-out;
+}
+
+.link:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

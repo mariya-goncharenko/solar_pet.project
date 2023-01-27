@@ -1,0 +1,11 @@
+.button__text {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 16px;
+    right: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    pointer-events: none;
+}

@@ -1,0 +1,9 @@
+.column__list_place_steps {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 30px;
+}
+
+.column__list_place_steps:last-child {
+    padding: 0;
+}

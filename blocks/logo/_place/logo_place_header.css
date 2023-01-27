@@ -1,0 +1,27 @@
+.logo_place_header {
+    margin: 70px 0 140px;
+}
+
+@media screen and (max-width: 1024px) {
+    .logo_place_header {
+        margin: 50px 0 100px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .logo_place_header {
+        margin: 40px 0 80px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .logo_place_header {
+        margin: 30px 0 60px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .logo_place_header {
+        margin: 20px 0 40px;
+    }
+}
